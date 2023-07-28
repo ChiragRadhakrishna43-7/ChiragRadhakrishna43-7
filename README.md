@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chirag Radhakrishna</h1>
 <h3 align="center">I am a Computer Science graduate student at Santa Clara University. Exploring the Silicon Valley for exciting oppurtunities.</h3>
-<img align ="right" alt="Code step-by-step" width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuJyQguTi57K_a1Q95LmgQ9G0dLiQI8iM2Y4rM5AFAiHAOWusZiFBnkULMCwRO1hYCSLY&usqp=CAU">
+<img align ="right" alt="Code step-by-step" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuJyQguTi57K_a1Q95LmgQ9G0dLiQI8iM2Y4rM5AFAiHAOWusZiFBnkULMCwRO1hYCSLY&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragradhakrishna43-7&label=Profile%20views&color=0e75b6&style=flat" alt="chiragradhakrishna43-7" /> </p>
 
 - 🌱 I’m currently learning **computer vision and machine learning.**
