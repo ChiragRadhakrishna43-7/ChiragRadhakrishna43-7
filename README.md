@@ -2,7 +2,7 @@
 
 <p align="justify">My name is Chirag Radhakrishna. At present, I am a graduate student at Santa Clara University👨‍💻.</p>
 
-<p align="justify">I value the daily interactions that I have with different Professors and fellow students. These interactions have been engaging, insightful, and creative which has given me opportunities to improve my fundamentals and widen my perspectives.</p>
+<p align="justify">I value the daily interactions that I have with different Professors and fellow students. These interactions have been engaging, insightful, and creative which has given me opportunities to improve my fundamentals and widen my technical perspectives.</p>
 
 <p align="justify">Large Language Models (LLMs), Online Social Network (OSN) Security, and AI ethics constitute my research interests. While AI has the potential to automate applications and complex tasks, I strongly believe that we need professional ethical standards to ensure AI products are developed the right way.</p>
 
@@ -14,4 +14,7 @@
   </ol>
 </p>
 
+<p align="justify">In addition to teaching and research, I participate in project exhibitions and paper presentation events.</p>
+
+<p align="justify">Away from computers and the tech-stack, I engage in corporate training, sports analysis & coaching.</p>
 
