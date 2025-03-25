@@ -6,13 +6,13 @@
 
 <p align="justify">Large Language Models (LLMs), Online Social Network (OSN) Security, and AI ethics constitute my research interests. While AI has the potential to automate applications and complex tasks, I strongly believe that we need professional ethical standards to ensure AI products are developed the right way.</p>
 
-<p align="justify">TECH STACK<br/>
-<b>Languages: </b>C, CSS3, HTML5, Java, Javascript, Python, R. <br/>
-<b>Frameworks, Platforms, & Libraries: </b>Anaconda, Bootstrap, JavaFX, JQuery, OpenCV, Streamlit. <br/>
-<b>Databases, ORM: </b>MySQL, Microsoft SQL Server, SQLITE. <br/>
-<b>Design: </b>Canva, Figma, DRAW.IO, Excalidraw. <br/>
-<b>Machine Learning Libraries: </b>Keras, MatplotLib, Numpy, Pandas, Plotly, PyTorch, Scikit-Learn, TensorFlow. <br/>
-<b>CI/CD VCS: </b>Git, GitHub. <br/>
+<p align="justify">TECH STACK <br/>
+<b>Languages: </b>C, CSS3, HTML5, Java, Javascript, Python, R. <br/><br/>
+<b>Frameworks, Platforms, & Libraries: </b>Anaconda, Bootstrap, JavaFX, JQuery, OpenCV, Streamlit. <br/><br/>
+<b>Databases, ORM: </b>MySQL, Microsoft SQL Server, SQLITE. <br/><br/>
+<b>Design: </b>Canva, Figma, DRAW.IO, Excalidraw. <br/><br/>
+<b>Machine Learning Libraries: </b>Keras, MatplotLib, Numpy, Pandas, Plotly, PyTorch, Scikit-Learn, TensorFlow. <br/><br/>
+<b>CI/CD VCS: </b>Git, GitHub. <br/><br/>
 <b>Other tools: </b>Postman, PowerBI.</p>
 
 <p align="justify"> Apart from my graduate studies, I have taken up multiple positions at the Santa Clara University School of Engineering- <br/>
