@@ -6,7 +6,7 @@
 
 <p align="justify">Large Language Models (LLMs), Online Social Network (OSN) Security, and AI ethics constitute my research interests. While AI has the potential to automate applications and complex tasks, I strongly believe that we need professional ethical standards to ensure AI products are developed the right way.</p>
 
-<p align="justify">TECH STACK- <br/>
+<p align="justify"><i>TECH STACK-</i> <br/>
 <b>Languages: </b>C, CSS3, HTML5, Java, Javascript, Python, R. <br/><br/>
 <b>Frameworks, Platforms, & Libraries: </b>Anaconda, Bootstrap, JavaFX, JQuery, OpenCV, Streamlit. <br/><br/>
 <b>Databases, ORM: </b>MySQL, Microsoft SQL Server, SQLITE. <br/><br/>
