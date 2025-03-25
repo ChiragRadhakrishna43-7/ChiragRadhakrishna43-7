@@ -17,9 +17,9 @@
 
 <p align="justify"> Apart from my graduate studies, I have taken up multiple positions at the Santa Clara University School of Engineering- <br/>
   <ol type="1">
-    <li>Graduate Teaching Assistant: Course CSEN 210-Computer Architecture. Helped students with concepts like the MIPS ISA, multi-cycle datapath, pipline, pipeline hazards, caching modes, and virtual memory.</li><br/>
-    <li>Graduate Teaching Assistant: Course CSEN 288-Software Ethics.</li><br/>
-    <li>Graduate Research Assistant: Contributing to the AI Development Lifecycle.</li><br/>
+    <li><b>Graduate Teaching Assistant:</b> Course CSEN 210-Computer Architecture. Helped students with concepts like the MIPS ISA, multi-cycle datapath, pipline, pipeline hazards, caching modes, and virtual memory.</li><br/>
+    <li><b>Graduate Teaching Assistant:</b> Course CSEN 288-Software Ethics.</li><br/>
+    <li><b>Graduate Research Assistant:</b> Contributing to the AI Development Lifecycle.</li><br/>
   </ol>
 </p>
 
