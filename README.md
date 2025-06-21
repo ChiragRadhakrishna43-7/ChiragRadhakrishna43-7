@@ -1,10 +1,10 @@
 ## Welcome to my GitHub page👋
 
-<p align="justify">My name is Chirag Radhakrishna. At present, I am a graduate student at Santa Clara University👨‍💻.</p>
+<p align="justify">My name is Chirag Radhakrishna. I am a <b>Ph.D. student in the Network Security and Optimization Lab</b> at <b>Santa Clara University</b>👨‍💻. As a Ph.D. student, my research focus is towards Cyberphysical Systems and Online Social Network Security - Sybil Account Detection, Misinformation Containment, Influence Maximization, & Fairness Promotion.</p>
 
 <p align="justify">I value the daily interactions that I have with different Professors and fellow students. These interactions have been engaging, insightful, and creative which has given me opportunities to improve my fundamentals and widen my technical perspectives.</p>
 
-<p align="justify">Large Language Models (LLMs), Online Social Network (OSN) Security, and AI ethics constitute my research interests. While AI has the potential to automate applications and complex tasks, I strongly believe that we need professional ethical standards to ensure AI products are developed the right way.</p>
+<p align="justify">Large Language Models (LLMs), Algorithms, and AI ethics constitute my other research interests. While AI has the potential to automate applications and complex tasks, I strongly believe that we need professional ethical standards to ensure AI products are developed the right way.</p>
 
 <p align="justify"><i>TECH STACK-</i> <br/>
 <b>Languages: </b>C, CSS3, HTML5, Java, Javascript, Python, R. <br/><br/>
@@ -22,8 +22,3 @@
     <li><b>Graduate Research Assistant:</b> Contributing to the AI Development Lifecycle.</li><br/>
   </ol>
 </p>
-
-<p align="justify">In addition to teaching and research, I participate in project exhibitions and paper presentation events.</p>
-
-<p align="justify">Away from computers and the tech-stack, I engage in corporate training, sports analysis & coaching.</p>
-
